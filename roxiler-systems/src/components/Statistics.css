@@ -1,0 +1,15 @@
+.statistics-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffecb3;
+    border-radius: 8px;
+}
+
+.statistics {
+    display: flex;
+    flex-direction: column;
+}
+
+.statistics div {
+    margin-bottom: 8px;
+}
